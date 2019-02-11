@@ -1,0 +1,23 @@
+{
+  "name": "game-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thaisuhn/game-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thaisuhn/game-game/issues"
+  },
+  "homepage": "https://github.com/Thaisuhn/game-game#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
